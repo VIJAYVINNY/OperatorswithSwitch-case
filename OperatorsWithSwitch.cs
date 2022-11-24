@@ -17,23 +17,23 @@ namespace FirstProject
             int i = int.Parse(Console.ReadLine());
             switch(i)
             {
-                case 1:
+                case 2:
                     Console.WriteLine("The Value is:" +(a+b));
                     break;
 
-                case 2:
+                case 3:
                     Console.WriteLine("The Value is:" + (a - b));
                     break;
 
-                case 3:
+                case 4:
                     Console.WriteLine("The Value is:" + (a * b));
                     break;
 
-                case 4:
+                case 5:
                     Console.WriteLine("The Value is:" + (a / b));
                     break;
 
-                case 5:
+                case 1:
                     Console.WriteLine("The Value is:" + (a % b));
                     break;
 
